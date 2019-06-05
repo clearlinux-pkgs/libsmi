@@ -4,7 +4,7 @@
 #
 Name     : libsmi
 Version  : 0.5.0
-Release  : 2
+Release  : 3
 URL      : https://www.ibr.cs.tu-bs.de/projects/libsmi/download/libsmi-0.5.0.tar.gz
 Source0  : https://www.ibr.cs.tu-bs.de/projects/libsmi/download/libsmi-0.5.0.tar.gz
 Summary  : SMI parser library
